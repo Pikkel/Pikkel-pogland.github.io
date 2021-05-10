@@ -1,3 +1,4 @@
+<?php
 // Function to get the client IP address
 function get_client_ip() {
     $ipaddress = '';
@@ -20,3 +21,4 @@ function get_client_ip() {
     <meta content="Pogland" property="og:title">
     <meta content="https://embed.com/pogland.club" property="og:url">
     <meta content="#7642a5" data-react-helmet="true" name="theme-color">
+?>
